@@ -19,6 +19,21 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Diferencia entre variable mutable e inmutable.
 - Alcance básico de una variable.
 
+### 2. Tipos de datos básicos
+
+- Números enteros y decimales.
+- Texto.
+- Booleanos.
+- Valor nulo o vacío, según el lenguaje.
+- Conversión entre tipos.
+
+### 3. Operadores
+
+- Aritméticos: sumar, restar, multiplicar, dividir, módulo.
+- Comparación: igual, distinto, mayor, menor, mayor o igual, menor o igual.
+- Lógicos: AND, OR, NOT.
+- Asignación compuesta.
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -26,8 +41,8 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 ## 📈 Progreso
 
 Día 1: Variables y constantes
-Día 2:
-Día 3:
+Día 2: Tipos de datos básicos
+Día 3: Operadores
 
 ## 📚 Ejercicios
 
@@ -41,6 +56,6 @@ Día 3:
 ## ✅ Checklist
 
 - [x] Variables y Constantes
-- [ ] Condicionales
-- [ ] Ciclos
+- [x] Tipos de datos básicos
+- [x] Operadores
 - [ ] Funciones
