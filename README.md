@@ -43,6 +43,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 Día 1: Variables y constantes
 Día 2: Tipos de datos básicos
 Día 3: Operadores
+Día 4: Entrada, proceso y salida
 
 ## 📚 Ejercicios
 
@@ -50,6 +51,12 @@ Día 3: Operadores
 | ------ | ------------ | -------- |
 | Básico | Reasignacion de valores | ✅ |
 | Básico | Variable con edad y sumarle 5 | ✅ |
+| Básico | Conversion de tipo | ✅ |
+| Básico | Entero + decimal | ✅ |
+| Básico | Definir el tipo de dato correcto | ✅ |
+| Básico | Operadores aritmeticos: suma y multiplicacion | ✅ |
+| Básico | Operadores de comparacion: validar numero mayor y menor | ✅ |
+| Básico | Numero par o impar | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -58,4 +65,4 @@ Día 3: Operadores
 - [x] Variables y Constantes
 - [x] Tipos de datos básicos
 - [x] Operadores
-- [ ] Funciones
+- [x] Entrada, proceso y salida
