@@ -40,7 +40,7 @@ Día 3:
 
 ## ✅ Checklist
 
-- [ ] Variables y Constantes
+- [x] Variables y Constantes
 - [ ] Condicionales
 - [ ] Ciclos
 - [ ] Funciones
