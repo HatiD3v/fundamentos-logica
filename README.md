@@ -34,16 +34,25 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Lógicos: AND, OR, NOT.
 - Asignación compuesta.
 
+### 4. Entrada, proceso y salida
+
+- Recibir datos.
+- Guardarlos en variables.
+- Transformarlos.
+- Mostrar resultados.
+
 ## 🛠 Tecnologías
 
 - Dart
 
 ## 📈 Progreso
 
-Día 1: Variables y constantes
-Día 2: Tipos de datos básicos
-Día 3: Operadores
-Día 4: Entrada, proceso y salida
+- Día 1: Variables y constantes
+- Día 2: Tipos de datos básicos
+- Día 3: Operadores
+- Día 4: Entrada, proceso y salida
+- Día 5: Condicionales
+- Día 6: Bucles
 
 ## 📚 Ejercicios
 
@@ -66,3 +75,5 @@ Día 4: Entrada, proceso y salida
 - [x] Tipos de datos básicos
 - [x] Operadores
 - [x] Entrada, proceso y salida
+- [ ] Condicionales
+- [ ] Bucles
