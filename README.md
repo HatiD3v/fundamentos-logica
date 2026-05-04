@@ -41,6 +41,12 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Transformarlos.
 - Mostrar resultados.
 
+### 5. Condicionales
+
+- Estructuras de control(if, else, else if)
+- Condiciones simples y compuestas.
+- Validar casos verdaderos y falsos.
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -77,5 +83,5 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Tipos de datos básicos
 - [x] Operadores
 - [x] Entrada, proceso y salida
-- [ ] Condicionales
+- [x] Condicionales
 - [ ] Bucles
