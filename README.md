@@ -66,6 +66,8 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | Operadores aritmeticos: suma y multiplicacion | ✅ |
 | Básico | Operadores de comparacion: validar numero mayor y menor | ✅ |
 | Básico | Numero par o impar | ✅ |
+| Básico | calcular doble de la edad | ✅ |
+| Básico | precio de 50 | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
