@@ -47,6 +47,21 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Condiciones simples y compuestas.
 - Validar casos verdaderos y falsos.
 
+### 6. Bucles
+
+- Repeticion por contador
+- Repeticion por condicion
+- como detener un ciclo
+- break y continue
+  
+  ### 7. Funciones
+
+  - Declarar una funcion
+  - Llamar a una funcion
+  - Parametros
+  - Retorno de valores
+  - Diferencia entre hacer y devolver
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -59,6 +74,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 4: Entrada, proceso y salida
 - Día 5: Condicionales
 - Día 6: Bucles
+- Día 7: Funciones
 
 ## 📚 Ejercicios
 
@@ -74,6 +90,12 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | Numero par o impar | ✅ |
 | Básico | calcular doble de la edad | ✅ |
 | Básico | precio de 50 | ✅ |
+| Básico | bucle que numero imprime? | ✅ |
+| Básico | bucle detectar error | ✅ |
+| Básico | bucle que salida produce | ✅ |
+| Básico | bucle traducir a codigo | ✅ |
+| Básico | bucle mostrar numero pares | ✅ |
+| Intermedio | repetir hasta que un numero sea mayor que 100 empezando desde 1 y multiplicando por 2 | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -84,4 +106,5 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Operadores
 - [x] Entrada, proceso y salida
 - [x] Condicionales
-- [ ] Bucles
+- [x] Bucles
+- [x] Funciones
