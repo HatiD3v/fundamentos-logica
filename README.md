@@ -53,7 +53,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Repeticion por condicion
 - como detener un ciclo
 - break y continue
-  
+
   ### 7. Funciones
 
   - Declarar una funcion
@@ -61,6 +61,12 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
   - Parametros
   - Retorno de valores
   - Diferencia entre hacer y devolver
+
+  ### 8. Pensamiento modular
+
+  - Dividir un problema grande en partes pequenas
+  - una funcion = una responsabilidad
+  - reutilizar logica sin copiar y pegar
 
 ## 🛠 Tecnologías
 
@@ -75,6 +81,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 5: Condicionales
 - Día 6: Bucles
 - Día 7: Funciones
+- Día 8: Pensamiento modular
 
 ## 📚 Ejercicios
 
@@ -96,6 +103,11 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | bucle traducir a codigo | ✅ |
 | Básico | bucle mostrar numero pares | ✅ |
 | Intermedio | repetir hasta que un numero sea mayor que 100 empezando desde 1 y multiplicando por 2 | ✅ |
+| Básico | funcion: que imprime? | ✅ |
+| Básico | funcion: completar funcion | ✅ |
+| Básico | funcion: que diferencia hay entre void y return | ✅ |
+| Básico | funcion: traducir un escrito a codigo | ✅ |
+| Básico | funcion: crear una funcion que reciba una edad y devuelva true si es mayor de edad | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -108,3 +120,4 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Condicionales
 - [x] Bucles
 - [x] Funciones
+- [ ] Pensamiento modular
