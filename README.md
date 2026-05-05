@@ -54,26 +54,32 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - como detener un ciclo
 - break y continue
 
-  ### 7. Funciones
+### 7. Funciones
 
-  - Declarar una funcion
-  - Llamar a una funcion
-  - Parametros
-  - Retorno de valores
-  - Diferencia entre hacer y devolver
+- Declarar una funcion
+- Llamar a una funcion
+- Parametros
+- Retorno de valores
+- Diferencia entre hacer y devolver
 
-  ### 8. Pensamiento modular
+### 8. Pensamiento modular
 
-  - Dividir un problema grande en partes pequenas
-  - una funcion = una responsabilidad
-  - reutilizar logica sin copiar y pegar
-  
-  ### 9. Colecciones Básicas
+- Dividir un problema grande en partes pequenas
+- una funcion = una responsabilidad
+- reutilizar logica sin copiar y pegar
 
-  - Listas
-  - Agregar, quitar, recorrer y buscar elementos
-  - comprender indices
-  - Recorrer una coleccion completa
+### 9. Colecciones Básicas
+
+- Listas
+- Agregar, quitar, recorrer y buscar elementos
+- comprender indices
+- Recorrer una coleccion completa
+
+### 10. Mapas o diccionarios
+
+- Relación clave-valor.
+- Acceder, insertar, modificar y eliminar datos.
+- Cuándo usar lista y cuándo usar mapa.
 
 ## 🛠 Tecnologías
 
@@ -90,6 +96,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 7: Funciones
 - Día 8: Pensamiento modular
 - Día 9: Colecciones básicas
+- Día 10: Mapas o diccionarios
 
 ## 📚 Ejercicios
 
@@ -121,6 +128,12 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | pensamiento modular: refactoriza mentalmente separar calculo y visualizacion. | ✅ |
 | intermedio | pensamiento modular: disena funciones para determinar si un numero es par, mostrar el resultado | ✅ |
 | intermedio | pensamiento modular: sistema simple(calcular precio total, aplicar descuento, validar si el cliente es vip) y dividir en funciones, esto si estuvo dificil | ✅ |
+| Básico | List: que imprime? | ✅ |
+| Básico | List: error de indice | ✅ |
+| Básico | List: traducir a codigo crear una lista de numeros, agregar un numero, mostrar todos | ✅ |
+| Básico | List: Mostrar solo números mayores a 10 de una lista | ✅ |
+| Intermedio | List: buscar si un numero existe en la lista y mostrar 'encontrado' o 'no encontrado' | ✅ |
+| Intermedio | List: dada una lista de precios: calcular el total y mostrar el resultado | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -134,4 +147,5 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Bucles
 - [x] Funciones
 - [x] Pensamiento modular
-- [ ] Colecciones básicas
+- [x] Colecciones básicas
+- [ ] Mapas o diccionarios
