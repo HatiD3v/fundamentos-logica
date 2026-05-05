@@ -67,6 +67,13 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
   - Dividir un problema grande en partes pequenas
   - una funcion = una responsabilidad
   - reutilizar logica sin copiar y pegar
+  
+  ### 9. Colecciones Básicas
+
+  - Listas
+  - Agregar, quitar, recorrer y buscar elementos
+  - comprender indices
+  - Recorrer una coleccion completa
 
 ## 🛠 Tecnologías
 
@@ -82,6 +89,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 6: Bucles
 - Día 7: Funciones
 - Día 8: Pensamiento modular
+- Día 9: Colecciones básicas
 
 ## 📚 Ejercicios
 
@@ -108,6 +116,11 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | funcion: que diferencia hay entre void y return | ✅ |
 | Básico | funcion: traducir un escrito a codigo | ✅ |
 | Básico | funcion: crear una funcion que reciba una edad y devuelva true si es mayor de edad | ✅ |
+| Básico | pensamiento modular: calcular el area de un rectangulo y mostrar el resultado | ✅ |
+| Básico | pensamiento modular: detectar problema(funcion rompe el principio de una sola responsabilidad) | ✅ |
+| Básico | pensamiento modular: refactoriza mentalmente separar calculo y visualizacion. | ✅ |
+| intermedio | pensamiento modular: disena funciones para determinar si un numero es par, mostrar el resultado | ✅ |
+| intermedio | pensamiento modular: sistema simple(calcular precio total, aplicar descuento, validar si el cliente es vip) y dividir en funciones, esto si estuvo dificil | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -120,4 +133,4 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Condicionales
 - [x] Bucles
 - [x] Funciones
-- [ ] Pensamiento modular
+- [x] Pensamiento modular
