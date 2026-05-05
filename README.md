@@ -134,3 +134,4 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Bucles
 - [x] Funciones
 - [x] Pensamiento modular
+- [ ] Colecciones básicas
