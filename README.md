@@ -81,6 +81,21 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Acceder, insertar, modificar y eliminar datos.
 - Cuándo usar lista y cuándo usar mapa.
 
+### 11. Recorrido de datos
+
+- Recorrer listas con ciclos.
+- Procesar cada elemento.
+- Acumular resultados.
+- Encontrar máximo, mínimo y totales.
+
+### 12. Algoritmos básico
+
+- Sumar acumulados.
+- Contar elementos.
+- Buscar un dato. Filtrar datos.
+- Ordenar de forma simple.
+- Comparar valores.
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -97,6 +112,8 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 8: Pensamiento modular
 - Día 9: Colecciones básicas
 - Día 10: Mapas o diccionarios
+- Día 11: Recorrido de datos
+- Día 12: Algoritmos básicos
 
 ## 📚 Ejercicios
 
@@ -154,3 +171,5 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Pensamiento modular
 - [x] Colecciones básicas
 - [x] Mapas o diccionarios
+- [ ] Recorrido de datos
+- [ ] Algoritmos básicos
