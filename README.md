@@ -134,6 +134,11 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | List: Mostrar solo números mayores a 10 de una lista | ✅ |
 | Intermedio | List: buscar si un numero existe en la lista y mostrar 'encontrado' o 'no encontrado' | ✅ |
 | Intermedio | List: dada una lista de precios: calcular el total y mostrar el resultado | ✅ |
+| Básico | Map: Traducir a mapa nombre: Carlos edad: 28 activo: true | ✅ |
+| Intermedio | Map: ¿Qué diferencia hay entre estas dos estructuras? | ✅ |
+| Básico | Map: Accede al valor correcto: obtener precio | ✅ |
+| Intermedio | Map: Inserta una nueva clave: agregar "stock" = 20 | ✅ |
+| Intermedio | Map: Piensa cuál usarías: | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -148,4 +153,4 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Funciones
 - [x] Pensamiento modular
 - [x] Colecciones básicas
-- [ ] Mapas o diccionarios
+- [x] Mapas o diccionarios
