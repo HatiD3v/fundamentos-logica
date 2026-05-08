@@ -156,6 +156,11 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | Map: Accede al valor correcto: obtener precio | ✅ |
 | Intermedio | Map: Inserta una nueva clave: agregar "stock" = 20 | ✅ |
 | Intermedio | Map: Piensa cuál usarías: | ✅ |
+| Básico | Recorrido de datos: Suma todos los números: [3,6,9] | ✅ |
+| Básico | Recorrido de datos: encuentra el mayor [4,12,7,1] | ✅ |
+| Básico | Recorrido de datos: multiplicar todos los numeros * 3 | ✅ |
+| Básico | Recorrido de datos: contar cuantos numeros son mayores que 10 = [5,12,18,3,25] | ✅ |
+| Intermedio | Recorrido de datos: dada una lista de precios; calcular total, encontrar el precio mas alto, encontrar el precio mas bajo | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -171,5 +176,5 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Pensamiento modular
 - [x] Colecciones básicas
 - [x] Mapas o diccionarios
-- [ ] Recorrido de datos
+- [x] Recorrido de datos
 - [ ] Algoritmos básicos
