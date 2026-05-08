@@ -161,6 +161,12 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | Recorrido de datos: multiplicar todos los numeros * 3 | ✅ |
 | Básico | Recorrido de datos: contar cuantos numeros son mayores que 10 = [5,12,18,3,25] | ✅ |
 | Intermedio | Recorrido de datos: dada una lista de precios; calcular total, encontrar el precio mas alto, encontrar el precio mas bajo | ✅ |
+| Básico | Algoritmos básicos: sumar todos los numeros [2, 4, 6, 8] | ✅ |
+| Básico | Algoritmos básicos: cuenta cuantos numeros son pares | ✅ |
+| Básico | Algoritmos básicos: Filtra números mayores a 10 | ✅ |
+| Básico | Algoritmos básicos: Busca si existe el número 7 | ✅ |
+| Intermedio | Algoritmos básicos: encontrar el numero mayor y menor en una lista | ✅ |
+| Intermedio | Algoritmos básicos: ordenar la lista manualmente [9,1,5,3] | [En proceso] |
 
 ### ✔ Checklist de aprendizaje
 
