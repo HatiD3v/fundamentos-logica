@@ -78,4 +78,26 @@ void main() {
   print(contador);
 
   //ejercicio 5: dada una lista de precios; calcular total, encontrar el precio mas alto, encontrar el precio mas bajo
+  //Pasos para la solucion, en este ejercicio trate de descomponer todo el ejercicio para dar con la solucion.
+  // entrada: lista de precios
+  // proceso: calcular el total de los precios, encontrar el precio mas alto y mas bajo
+  // salida: mostrar los datos procesados.
+  // como podemos iniciar o que es lo que me dice mi cerebro? 1. definir la lista de precios. definir una variable totalPrecios que almacene ese dato amuculado. 3. definir una condicion para evaluar cual precio es mayor y cual precio es menor, pero para esto tambien debemos definir por lo menos 2 variables mas que almacenen ese dato si es mayor o menor. veamos como sale
+  //ya definida la lista, las variables y las estructuras de control se aplica la logica en sentido de: con el for iteramos en la lista por cada iteracion vamos acumulando el valor del precio total, con el condicional de if validamos si el precio es mayor al primer indice de la lista, si lo es entonces lo asignamos a la variable precio mayor, sino si precio es menor al indice de la lista lo asignamos a la variable precio mayor esto a fin de tener un control en las variables para poder ir almacenando el valor en cada iteracion.
+  List<int> listaDePrecios = [20, 32, 40, 22, 54, 33];
+  int precioTotal = 0;
+  int precioMayor = listaDePrecios[0];
+  int precioMenor = listaDePrecios[0];
+
+  for (int precio in listaDePrecios) {
+    precioTotal += precio;
+    if (precio > precioMayor) {
+      precioMayor = precio;
+    } else if (precio < precioMenor) {
+      precioMayor = precio;
+    }
+  }
+  print(precioTotal);
+  print('El precio mayor es $precioMayor');
+  print('El precio mayor es $precioMenor');
 }
