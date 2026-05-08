@@ -96,6 +96,14 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Ordenar de forma simple.
 - Comparar valores.
 
+### 13. Descomposición de problemas
+
+- Leer el problema.
+- Identificar entradas.
+- Identificar salidas.
+- Definir pasos intermedios.
+- Escribir el algoritmo antes del código.
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -114,6 +122,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 10: Mapas o diccionarios
 - Día 11: Recorrido de datos
 - Día 12: Algoritmos básicos
+- Día 13: Descomposición de problemas
 
 ## 📚 Ejercicios
 
@@ -166,7 +175,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | Algoritmos básicos: Filtra números mayores a 10 | ✅ |
 | Básico | Algoritmos básicos: Busca si existe el número 7 | ✅ |
 | Intermedio | Algoritmos básicos: encontrar el numero mayor y menor en una lista | ✅ |
-| Intermedio | Algoritmos básicos: ordenar la lista manualmente [9,1,5,3] | [En proceso] |
+| Intermedio | Algoritmos básicos: ordenar la lista manualmente [9,1,5,3] | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -183,4 +192,5 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Colecciones básicas
 - [x] Mapas o diccionarios
 - [x] Recorrido de datos
-- [ ] Algoritmos básicos
+- [x] Algoritmos básicos
+- [ ] Descomposición de problemas

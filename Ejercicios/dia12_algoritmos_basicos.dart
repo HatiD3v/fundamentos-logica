@@ -77,4 +77,21 @@ Patron mental universal
   print(numeroMenor);
 
   //ejercicio 6 nivel pensamiento. ordenar la lista manualmente [9,1,5,3]
+  //Este ejercicio claramente es de ordenamiento por bubble sort, tratare de pensar en como realizar un algoritmo como ese
+  //primeramente tenemos como entrada la lista de numeros
+  //el proceso es ordenar la lista de menor a mayor, pensemos como hariamos algo asi en la vida real.
+  //ejemplo con canicas, tengo 4 canicas de diferentes tamaños desorganizado.
+  // que requiero para ordenar? un algoritmo o precedimiento que me ayude. OK tengo mis canicas, las quiero ordenar pero para ordenarlas necesito ver o comparar cuales son mas pequeñas y cuales mas grandes para ordenar por tamaño pero como se haria el procedimiento?
+  // creo que deberia tener una variable temporal que me almacene mi primera canica sea el tamaño que sea. luego valido la siguiente canica si es mas grande la dejo alli, pero si es pequeña la muevo a la ubicacion temporal y esa grande la desplazo de ubicacion. veamos como va saliendo esto
+  List<int> bubbleSort = [9, 1, 5, 3];
+  for (int i = 0; i < bubbleSort.length; i++) {
+    for (int j = 0; j < bubbleSort.length - 1; j++) {
+      if (bubbleSort[j] > bubbleSort[j + 1]) {
+        int temp = bubbleSort[j];
+        bubbleSort[j] = bubbleSort[j + 1];
+        bubbleSort[j + 1] = temp;
+      }
+    }
+  }
+  print(bubbleSort);
 }
