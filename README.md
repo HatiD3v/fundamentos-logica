@@ -104,6 +104,20 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Definir pasos intermedios.
 - Escribir el algoritmo antes del código.
 
+### 14. Pseudocodigo
+
+- Expresar soluciones en texto estructurado.
+- Pensar antes de programar.
+- Traducir lógica a código después.
+
+### 15. Diagramas de flujo
+
+- Diagramas de flujo básicos Inicio y fin.
+- Proceso.
+- Decisión.
+- Repetición.
+- Entender cómo fluye la lógica.
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -123,6 +137,8 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 11: Recorrido de datos
 - Día 12: Algoritmos básicos
 - Día 13: Descomposición de problemas
+- Día 14: Pseudocodigo
+- Día 15: Diagramas de flujo
 
 ## 📚 Ejercicios
 
@@ -176,6 +192,10 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 | Básico | Algoritmos básicos: Busca si existe el número 7 | ✅ |
 | Intermedio | Algoritmos básicos: encontrar el numero mayor y menor en una lista | ✅ |
 | Intermedio | Algoritmos básicos: ordenar la lista manualmente [9,1,5,3] | ✅ |
+| Básico | dado una lista de numeros, contar cuantos son mayores a 10, hacer entrada, salida, pasos y pseudocodigo | ✅ |
+| Básico | dado un numero, decir si es positivo, negativo o cero | ✅ |
+| Básico | dado una lista de precios calcular el total | ✅ |
+| Básico | dado una lista de numeros encontrar el mayor, menor y calcular la suma | ✅ |
 
 ### ✔ Checklist de aprendizaje
 
@@ -193,4 +213,6 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Mapas o diccionarios
 - [x] Recorrido de datos
 - [x] Algoritmos básicos
-- [ ] Descomposición de problemas
+- [x] Descomposición de problemas
+- [x] Pseudocodigo
+- [ ] Diagramas de flujo
