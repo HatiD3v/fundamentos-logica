@@ -118,6 +118,28 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Repetición.
 - Entender cómo fluye la lógica.
 
+### 16. Depuracion mental
+
+- Leer el código línea por línea.
+- Seguir el valor de cada variable.
+- Detectar errores de lógica.
+- Entender por qué un resultado salió mal.
+
+### 17. Buenas practicas
+
+- Nombres claros.
+- Código corto y legible.
+- Evitar repetir lógica.
+- Usar una sola responsabilidad por bloque.
+- Escribir primero simple, luego mejorar.
+
+### 18. Ergonomia de razonamiento
+
+- Entrenar con problemas pequeños.
+- Pasar de lo manual a lo automático.
+- Explicar en voz alta la solución.
+- Resolver el mismo ejercicio de otra forma.
+
 ## 🛠 Tecnologías
 
 - Dart
@@ -139,6 +161,9 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - Día 13: Descomposición de problemas
 - Día 14: Pseudocodigo
 - Día 15: Diagramas de flujo
+- Día 16: Depuracion mental
+- Día 17: Buenas practicas
+- Día 18: Ergonomia de razonamiento
 
 ## 📚 Ejercicios
 
@@ -215,4 +240,7 @@ En este camino de aprendizaje estare haciendo uso de IA para la explicacion de t
 - [x] Algoritmos básicos
 - [x] Descomposición de problemas
 - [x] Pseudocodigo
-- [ ] Diagramas de flujo
+- [x] Diagramas de flujo
+- [x] Depuracion mental
+- [x] Buenas practicas
+- [x] Ergonomia de razonamiento
